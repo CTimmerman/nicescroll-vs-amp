@@ -1,5 +1,5 @@
 # nicescroll-vs-amp
-Test case that shows Azure media player failure when jqury.nicescroll plugin is initialized.
+Test case that shows Azure media player failure when jquery.nicescroll plugin is initialized.
 
 Complete log of IE11:
 ```
